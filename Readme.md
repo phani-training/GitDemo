@@ -19,3 +19,12 @@
 - Pushing to the git hub:
 - Have an account on git hub
 - git clone address of the git repo 
+
+## Adding existing repo into git hub:
+- Create a new Repo in the github account
+- Run the following commands from the git local repo
+``` 
+git remote add origin https://github.com/phani-training/GitDemo.git
+git branch -M main
+git push -u origin main
+```
