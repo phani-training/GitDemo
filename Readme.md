@@ -28,3 +28,10 @@ git remote add origin https://github.com/phani-training/GitDemo.git
 git branch -M main
 git push -u origin main
 ```
+
+## Adding branches:
+- To create a new branch: git checkout -b feature1
+- To see all branches: git branch
+```
+git checkout -b feature1
+```
