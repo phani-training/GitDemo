@@ -34,4 +34,8 @@ git push -u origin main
 - To see all branches: git branch
 ```
 git checkout -b feature1
+git add newFiles
+git commit -m "adding to branch"
+git push -u oring feature1
+
 ```
