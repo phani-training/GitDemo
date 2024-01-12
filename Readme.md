@@ -16,7 +16,7 @@
 - git diff --staged ->tells the differences in the staging area. 
 - git rm --cached .\creds.txt ->removes a file from the git.
 - 
-- Pushing to the git hub:
+## Pulling to the git hub:
 - Have an account on git hub
 - git clone address of the git repo 
 
